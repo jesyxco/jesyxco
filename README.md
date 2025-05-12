@@ -1,2 +1,1 @@
-- Jessie | Ex-Founder in Health / Ecom
-- Currently learning AI & Full Stack
+Sovereign System Architecture
